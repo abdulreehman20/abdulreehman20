@@ -21,17 +21,36 @@
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
-| Category             | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Frameworks           | <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white"/>                                                                                                                                 |
-| Languages            | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" /> <img src="https://img.shields.io/badge/ShadCN%20UI-000000?style=for-the-badge&logo=shadcn&logoColor=white" /> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white" /> <img src="https://img.shields.io/badge/Asertinity%20UI-000000?style=for-the-badge&logo=asertinity&logoColor=white" /> <img src="https://img.shields.io/badge/Magical%20UI-000000?style=for-the-badge&logo=magical&logoColor=white" />                                                                                           |
-| Database             | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/NeonDB-000000?style=for-the-badge&logo=neondb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=nosql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>                                                                                                                                     |
-| ORM                  | <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-3A3A3A?style=for-the-badge&logo=sqlalchemy&logoColor=white"/> <img src="https://img.shields.io/badge/SQLModel-000000?style=for-the-badge&logo=sqlmodel&logoColor=white"/> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                   |
-| Services & Tools     | <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| IDE & Environment    | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Poetry-000000?style=for-the-badge&logo=poetry&logoColor=white" /> <img src="https://img.shields.io/badge/UV-000000?style=for-the-badge&logo=uv&logoColor=white" />                                                                                                                                                                                                                             |
-| Hosting              | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Learning             | <img src="https://img.shields.io/badge/PIAIC-000000?style=for-the-badge&logo=piaic&logoColor=white"/> <img src="https://img.shields.io/badge/Awafera-000000?style=for-the-badge&logo=awafera&logoColor=white"/> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Camp-000000?style=for-the-badge&logo=datacamp&logoColor=white" /> <img src="https://img.shields.io/badge/LinkedIn%20Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/FreeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" /> |
+## Skills For AI Engineering
+
+| Category | Skills |
+| -------- | ------ |
+| Prompt Engineering | Advanced prompt design and optimization for production use |
+| LLMs | OpenAI, Anthropic Claude, Gemini, Llama, Mistral, Groq |
+| Gen AI & RAG | LangChain, LlamaIndex |
+| Vector Databases | Pinecone, Chroma, Qdrant |
+| Agent Frameworks | LangGraph, CrewAI, Microsoft Agent Framework |
+| AI Protocols | Model Context Protocol (MCP), Agent2Agent (A2A), Agent Communication Protocol (ACP) |
+| Memory | LangMem, Mem0 |
+| Guardrails | LangChain Guardrails, NeMo Guardrails, Guardrails AI |
+| Observability & Evals | LangSmith, RAGAS |
+
+## Skills For Full Stack
+
+| Category | Skills |
+| -------- | ------ |
+| Languages | JavaScript / TypeScript, Python |
+| Frameworks | React, Next.js, Nuxt.js, NestJS, FastAPI, Node.js |
+| Styling / Libraries | Tailwind CSS, Shadcn UI, Material UI, Aceternity UI |
+| Databases | PostgreSQL, NoSQL, MongoDB, Supabase, NeonDB, Convex |
+| ORMs | Prisma, Drizzle, SQLAlchemy, SQLModel |
+| API Development | REST, GraphQL |
+| Monorepo Tooling | Turborepo, NX |
+| Containerization | Docker, Docker Compose |
+| Payment Integration | Stripe, PayPal, Polar, Lemon Squeezy |
+| Observability & Monitoring | Sentry, Datadog |
+| Testing | Playwright (complete coverage) |
+| Deployment | Vercel, Netlify, DigitalOcean |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -45,15 +64,38 @@
 
 &nbsp;
 
-| Projects         |                                           Deployed Link                                            |                             Repository                              | Tech Stack & Tools                                                                                         |
-| :--------------- | :------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------- |
-| Posidon          |                             [WildFire Website](https://pfosystem.com/)                             |         [view](https://github.com/abdulrehman104/Poseidon)          | `TypeScript` `Next.js` `Paypal` `Neon DB` `Nodemailer` `Prisma`                                            |
-| AutoK Inspection |                       [Inspection Website](https://www.autokinspection.com/)                       |     [view](https://github.com/abdulrehman104/AutoK-Inspection)      | `TypeScript` `API` `Next.js` `Three.js`                                                                    |
-| Chronna AI       |                  [AI powered sales assistant](https://corinnaai-saas.vercel.app/)                  |      [view](https://github.com/abdulrehman104/Chronna-AI-SaaS)      | `Next.js` `TypeScript` `Tailwind` `Gemini AI` `Nodemailer` `Shadcn UI` `Neon DB` `Prisma` `stripe connect` |
-| Plura            |                [Agency Management System](https://plurasaasproduction.vercel.app/)                 | [view](https://github.com/abdulrehman104/Agency-Management-System)  | `Next.js` `TypeScript` `Tailwind` `Nodemailer` `Shadcn UI` `Neon DB` `Prisma` `stripe connect`             |
-| Job Portal       |                          [Job Portal](https://my-job-poortal.vercel.app/)                          |       [view](https://github.com/abdulrehman104/My-Job-Portal)       | `Next.js` `TypeScript` `Tailwind` `Gemini AI` `Nodemailer` `Shadcn UI` `Supabase` `Prisma`                 |
-| Foodie           |        [Ecommerse](https://drive.google.com/file/d/1M2-9HBXrZ_6x3pjwycO9wk4_Kr35_5vg/view)         |     [view](https://github.com/abdulrehman104/Ecommerce-Client)      | `Next.js` `TypeScript` `Tailwind` `Shadcn UI` `Supabase` `Prisma`                                          |
-| Admin Pannel     | [Multi Store Admin Pannel](https://drive.google.com/file/d/1_4fVUZf7s_9bHeWIiLqxcU-6wl7f_hMH/view) | [view](https://github.com/abdulrehman104/Ecommerce-Admin-Dashboard) | `Next.js` `TypeScript` `Tailwind` `Shadcn UI` `Stripe` `Supabase` `Prisma` `Nextjs Server Action`          |
+## SaaS Products
+
+| Project | Deployed Link | Repository | Tech Stack & Tools |
+| :------ | :-----------: | :--------: | :----------------- |
+| Selvus AI | [Frontend](https://selvus.com/) | Private | `React` `Next.js` `Vercel AI SDK` `Vercel` `Stripe` `PostgreSQL` `OpenAI` `Claude` `Gemini` `Perplexity` |
+| Finora AI | [Frontend](https://finoraai.abduls.xyz/) · [Backend](https://api-finoraai.abduls.xyz/api/docs) | [view](https://github.com/abdulreehman20/Finora-AI) | `Next.js` `Express` `TypeScript` `Drizzle` `Neon` `Better Auth` `Stripe` `Gemini` `LangChain` `Inngest` `Resend` `Cloudinary` |
+| Corinna AI | [Frontend](https://corinnaai.abduls.xyz/) | [view](https://github.com/abdulreehman20/Corinnaai-SaaS) | `Next.js` `TypeScript` `Tailwind` `Shadcn UI` `Prisma` `Neon` `Clerk` `Stripe` `Gemini` `Pusher` `Uploadcare` |
+
+## RAG Systems
+
+| Project | Deployed Link | Repository | Tech Stack & Tools |
+| :------ | :-----------: | :--------: | :----------------- |
+| Atlas AI | [Frontend](https://atlas-ai-rag-system.vercel.app/chat) · [Backend](https://atlas-ai.fastapicloud.dev/docs) | [view](https://github.com/abdulreehman20/atlas-ai-rag-system) | `Next.js` `FastAPI` `TypeScript` `Python` `Supabase` `Pinecone` `LangChain` `Stripe` `OpenRouter` `LangSmith` `Sentry` |
+| Omni Docs | [Frontend](https://omni-rag-system.vercel.app/) · [Backend](https://omni-docs-backend.fastapicloud.dev/docs) | [view](https://github.com/abdulreehman20/omnidocs-rag-system) | `Next.js` `FastAPI` `TypeScript` `Python` `SQLModel` `Neon` `Pinecone` `LangChain` `Inngest` `Redis` `Vercel AI SDK` `RAGAS` `Sentry` `Playwright` |
+
+## Full Stack Products
+
+| Project | Deployed Link | Repository | Tech Stack & Tools |
+| :------ | :-----------: | :--------: | :----------------- |
+| My Job Portal | [Demo / UI](https://powerful-badger-35.accounts.dev/sign-in?redirect_url=https%3A%2F%2Fmy-job-poortal.vercel.app%2F) | [view](https://github.com/abdulreehman20/My-Job-Portal) | `Next.js` `TypeScript` `Tailwind` `Shadcn UI` `Prisma` `Supabase` `Clerk` `Gemini` `Nodemailer` `Recharts` |
+| Foodie - Ecom Application | [Demo / UI](https://drive.google.com/file/d/1M2-9HBXrZ_6x3pjwycO9wk4_Kr35_5vg/view) | [view](https://github.com/abdulrehman104/Ecommerce-Client) | `Next.js` `TypeScript` `Tailwind` `Shadcn UI` `Clerk` `Zustand` |
+| Admin Panel | [Demo / UI](https://drive.google.com/file/d/1_4fVUZf7s_9bHeWIiLqxcU-6wl7f_hMH/view) | [view](https://github.com/abdulrehman104/Ecommerce-Admin-Dashboard) | `Next.js` `TypeScript` `Tailwind` `Shadcn UI` `Prisma` `Supabase` `Clerk` `Stripe` `Zustand` `Recharts` |
+
+## Frontend Projects
+
+| Project | Deployed Link | Repository | Tech Stack & Tools |
+| :------ | :-----------: | :--------: | :----------------- |
+| Poseidon | [Live Demo](https://poseidon.abduls.xyz/) | Private | `TypeScript` `Next.js` `Three.js` `Neon DB` `Nodemailer` `Prisma` |
+| TrueK Inspection | [Live Demo](https://truekinspection.com/) | Private | `TypeScript` `Next.js` `Paypal` `Stripe` |
+| Nektira | [Live Demo](https://nektira.abduls.xyz/) | [view](https://github.com/abdulreehman20/Nektira) | `Next.js` `React` `TypeScript` `Turborepo` `Shadcn UI` `Tailwind` |
+| FlyFim | [Live Demo](https://flyfim.abduls.xyz/) | [view](https://github.com/abdulreehman20/flyfim) | `Next.js` `React` `TypeScript` `Tailwind` `Shadcn UI` `Framer Motion` |
+| TalkClinik | [Live Demo](https://talk-clinik.vercel.app/) | [view](https://github.com/abdulreehman20/TalkClinik) | `Next.js` `React` `TypeScript` `Tailwind` `Shadcn UI` `Clerk` `Sentry` `Motion` `Recharts` |
 
 ---
 
@@ -74,24 +116,20 @@
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn" /></a>
   <br>
   <a href="https://x.com/AbdulReehman104"><img src="https://img.shields.io/badge/Twitter-0A0209?style=for-the-badge" alt="profile of Twitter" /></a>
-  <a href="https://www.facebook.com/abdulrehman1104"><img src="https://img.shields.io/badge/Facebook-0A0209?style=for-the-badge" alt="profile of Facebook" /></a>
+  <!-- <a href="https://www.facebook.com/abdulrehman1104"><img src="https://img.shields.io/badge/Facebook-0A0209?style=for-the-badge" alt="profile of Facebook" /></a> -->
   <a href="https://www.instagram.com/abdul_rehman_104/"><img src="https://img.shields.io/badge/Instagram-0A0209?style=for-the-badge" alt="profile of Instagram" /></a>
   <br>
-  <a href="https://www.facebook.com/abdulrehman1104"><img src="https://img.shields.io/badge/Facebook-d5d5d5?style=for-the-badge" alt="profile of Facebook" /></a>
-  <a href="https://www.threads.net/@abdul_rehman_104"><img src="https://img.shields.io/badge/Threads-d5d5d5?style=for-the-badge" alt="profile of Threads" /></a>
-  <a href="https://medium.com/@abdulreehman104"><img src="https://img.shields.io/badge/Medium-d5d5d5?style=for-the-badge" alt="profile of Medium" /></a>
-  <a href="https://dev.to/abdul_rehman_104"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to" /></a>
-  <br> 
-  <a href="https://stackoverflow.com/users/29725090/abdul-rehman"><img src="https://img.shields.io/badge/StackOverflow-0A0209?style=for-the-badge" alt="profile of Stack Overflow" /></a>
-<a href="https://www.reddit.com/user/AntCharming1283/"><img src="https://img.shields.io/badge/Reddit-0A0209?style=for-the-badge" alt="profile of Reddit" /></a>
-<a href="https://app.daily.dev/abdulrehman81"><img src="https://img.shields.io/badge/Daily.dev-0A0209?style=for-the-badge" alt="profile of Daily.dev" /></a>
+  <!-- <a href="https://www.facebook.com/abdulrehman1104"><img src="https://img.shields.io/badge/Facebook-d5d5d5?style=for-the-badge" alt="profile of Facebook" /></a> -->
+  <!-- <a href="https://www.threads.net/@abdul_rehman_104"><img src="https://img.shields.io/badge/Threads-d5d5d5?style=for-the-badge" alt="profile of Threads" /></a> -->
+  <!-- <a href="https://medium.com/@abdulreehman104"><img src="https://img.shields.io/badge/Medium-d5d5d5?style=for-the-badge" alt="profile of Medium" /></a> -->
+  <!-- <a href="https://dev.to/abdul_rehman_104"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to" /></a> -->
+  <br>
+  <!-- <a href="https://stackoverflow.com/users/29725090/abdul-rehman"><img src="https://img.shields.io/badge/StackOverflow-0A0209?style=for-the-badge" alt="profile of Stack Overflow" /></a> -->
+  <!-- <a href="https://www.reddit.com/user/AntCharming1283/"><img src="https://img.shields.io/badge/Reddit-0A0209?style=for-the-badge" alt="profile of Reddit" /></a> -->
+  <!-- <a href="https://app.daily.dev/abdulrehman81"><img src="https://img.shields.io/badge/Daily.dev-0A0209?style=for-the-badge" alt="profile of Daily.dev" /></a> -->
   
 </div>
 
 <hr>
-
-<!-- Snake Contribution Graph -->
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
