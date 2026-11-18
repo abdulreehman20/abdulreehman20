@@ -8,12 +8,12 @@
 
 <!-- About Section -->
 
-<a href="https://abdulreehman.com/"><img src="https://img.shields.io/badge/website-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Abdul Rehman" /></a>
-<a href="https://www.linkedin.com/in/abdulrehman104/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
-<a href="https://www.instagram.com/abdul_rehman_104/"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge" alt="profile of Instagram with username abdul_rehman_104" /></a>
-<a href="mailto:abdulreehman104@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Abdul Rehman" /></a>
-<a href="https://dev.to/abdul_rehman_104"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username abdul_rehman_104" /></a>
-<a href="https://medium.com/@abdulreehman104"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username abdul_rehman_104" /></a>
+<a href="https://www.abduls.xyz/"><img src="https://img.shields.io/badge/website-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Abdul Rehman" /></a>
+<a href="https://www.linkedin.com/in/abdulreehman/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn" /></a>
+<a href="https://www.instagram.com/aiagents.io/"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge" alt="profile of Instagram" /></a>
+<a href="mailto:abdulreehman20@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Abdul Rehman" /></a>
+<a href="https://www.facebook.com/abdulreehman2/"><img src="https://img.shields.io/badge/Facebook-d5d5d5?style=for-the-badge&logo=facebook&logoColor=0A0209" alt="profile of Facebook" /></a>
+<a href="https://x.com/abdulreehman20"><img src="https://img.shields.io/badge/X-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of X" /></a>
 
 <br/>
 
@@ -35,7 +35,7 @@
 | Guardrails | LangChain Guardrails, NeMo Guardrails, Guardrails AI |
 | Observability & Evals | LangSmith, RAGAS |
 
-
+<br/>
 
 ## Skills For Full Stack
 
@@ -62,7 +62,7 @@
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-> Find all of my projects at [abdulreehman.com/works](https://www.abdulreehman.com/works) with timeline, tech stack and necessary links.
+> Find all of my projects at [abduls.xyz](https://www.abduls.xyz/) with timeline, tech stack and necessary links.
 
 &nbsp;
 
@@ -112,16 +112,16 @@
 <br>
 
 <div align="center">
-  <a href="https://abdulreehman.com/"><img src="https://img.shields.io/badge/website-0A0209?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Abdul Rehman" /></a>
+  <a href="https://www.abduls.xyz/"><img src="https://img.shields.io/badge/website-0A0209?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Abdul Rehman" /></a>
   <br>
-  <a href="mailto:abdulreehman104@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Abdul Rehman" /></a>
-  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn" /></a>
+  <a href="mailto:abdulreehman20@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Abdul Rehman" /></a>
+  <a href="https://www.linkedin.com/in/abdulreehman/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn" /></a>
   <br>
-  <a href="https://x.com/AbdulReehman104"><img src="https://img.shields.io/badge/Twitter-0A0209?style=for-the-badge" alt="profile of Twitter" /></a>
-  <!-- <a href="https://www.facebook.com/abdulrehman1104"><img src="https://img.shields.io/badge/Facebook-0A0209?style=for-the-badge" alt="profile of Facebook" /></a> -->
-  <a href="https://www.instagram.com/abdul_rehman_104/"><img src="https://img.shields.io/badge/Instagram-0A0209?style=for-the-badge" alt="profile of Instagram" /></a>
+  <a href="https://x.com/abdulreehman20"><img src="https://img.shields.io/badge/X-0A0209?style=for-the-badge&logo=x&logoColor=white" alt="profile of X" /></a>
+  <!-- <a href="https://www.facebook.com/abdulreehman2/"><img src="https://img.shields.io/badge/Facebook-0A0209?style=for-the-badge" alt="profile of Facebook" /></a> -->
+  <a href="https://www.instagram.com/aiagents.io/"><img src="https://img.shields.io/badge/Instagram-0A0209?style=for-the-badge" alt="profile of Instagram" /></a>
   <br>
-  <!-- <a href="https://www.facebook.com/abdulrehman1104"><img src="https://img.shields.io/badge/Facebook-d5d5d5?style=for-the-badge" alt="profile of Facebook" /></a> -->
+  <!-- <a href="https://www.facebook.com/abdulreehman2/"><img src="https://img.shields.io/badge/Facebook-d5d5d5?style=for-the-badge" alt="profile of Facebook" /></a> -->
   <!-- <a href="https://www.threads.net/@abdul_rehman_104"><img src="https://img.shields.io/badge/Threads-d5d5d5?style=for-the-badge" alt="profile of Threads" /></a> -->
   <!-- <a href="https://medium.com/@abdulreehman104"><img src="https://img.shields.io/badge/Medium-d5d5d5?style=for-the-badge" alt="profile of Medium" /></a> -->
   <!-- <a href="https://dev.to/abdul_rehman_104"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to" /></a> -->
