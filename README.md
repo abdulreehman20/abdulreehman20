@@ -118,7 +118,7 @@
   <a href="https://www.linkedin.com/in/abdulreehman/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn" /></a>
   <br>
   <a href="https://x.com/abdulreehman20"><img src="https://img.shields.io/badge/X-0A0209?style=for-the-badge&logo=x&logoColor=white" alt="profile of X" /></a>
-  <!-- <a href="https://www.facebook.com/abdulreehman2/"><img src="https://img.shields.io/badge/Facebook-0A0209?style=for-the-badge" alt="profile of Facebook" /></a> -->
+  <a href="https://www.facebook.com/abdulreehman2/"><img src="https://img.shields.io/badge/Facebook-0A0209?style=for-the-badge" alt="profile of Facebook" /></a>
   <a href="https://www.instagram.com/aiagents.io/"><img src="https://img.shields.io/badge/Instagram-0A0209?style=for-the-badge" alt="profile of Instagram" /></a>
   <br>
   <!-- <a href="https://www.facebook.com/abdulreehman2/"><img src="https://img.shields.io/badge/Facebook-d5d5d5?style=for-the-badge" alt="profile of Facebook" /></a> -->
